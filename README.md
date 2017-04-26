@@ -1,4 +1,7 @@
-# api documentation for  [parse-link-header (v0.4.1)](https://github.com/thlorenz/parse-link-header)  [![npm package](https://img.shields.io/npm/v/npmdoc-parse-link-header.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parse-link-header) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parse-link-header.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parse-link-header)
+# npmdoc-parse-link-header
+
+#### basic api documentation for  [parse-link-header (v0.4.1)](https://github.com/thlorenz/parse-link-header)  [![npm package](https://img.shields.io/npm/v/npmdoc-parse-link-header.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parse-link-header) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parse-link-header.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parse-link-header)
+
 #### Parses a link header and returns paging information for each contained link.
 
 [![NPM](https://nodei.co/npm/parse-link-header.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/parse-link-header)
@@ -84,7 +87,8 @@
             "android-browser/4.2..latest"
         ]
     },
-    "version": "0.4.1"
+    "version": "0.4.1",
+    "bin": {}
 }
 ```
 
